@@ -1,6 +1,4 @@
-### `My React Game for Practice`
-
-## Available Scripts
+## My React Game for Practice
 
 To play game you should run the commands respectively in the project directory:
 
